@@ -25,4 +25,4 @@
 
 *Recently Added*
 #Email addresss can be found at the upper right corner:
-![Email](Email.PNG)
+![Email](Email.png)
