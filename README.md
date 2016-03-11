@@ -23,3 +23,6 @@
 #For a set containing 1 2 3 5 6 7 8 10 12 13 15 16 18 19 20 22
 ![Binary Test](Ex2.PNG)
 
+*Recently Added*
+#Email addresss can be found at the upper right corner:
+![Email](Email.PNG)
